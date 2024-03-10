@@ -88,6 +88,11 @@
     height: 2.5px;
     transition: transform 0.2s ease;
   }
+
+  .header_navbar_label .hamburger_menu_linea.linea--hidden {
+    width: 45%;
+  }
+
   .header_navbar_label .linea_up--rotate-left, .header_navbar_label .linea_down--rotate-right {
     width: 20px;
   }
